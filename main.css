@@ -1,7 +1,5 @@
 .me1 {
   background-color: #e74c3c;
-  text-align:  right;
-  
 }
 
 .me2 {
@@ -22,8 +20,4 @@
 section {
   height: 800px;
   width: 60%;
-}
-
-.me1.hidden {
-  display: none;
 }
